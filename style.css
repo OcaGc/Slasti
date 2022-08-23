@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+.logo {
+    position: absolute;
+    left: 5.15%;
+    right: 8.5%;
+    top: 5.23%;
+    bottom: 8.42%;
+}
+
+.search {
+    box-sizing: border-box;
+
+    position: absolute;
+    left: 32.69%;
+    right: 44.24%;
+    top: 5.23%;
+    bottom: 34.09%;
+
+}
+
+.vector {
+    position: absolute;
+    left: 58%;
+    right: 0.53%;
+    top: 6.55%;
+    bottom: 0.1%;
+}
+
+.regestration {
+    box-sizing: border-box;
+
+    position: absolute;
+    left: 64.58%;
+    right: 23.96%;
+    top: 5.23%;
+    bottom: 34.09%;
+
+}
+
+.login {
+    position: absolute;
+    left: 78.12%;
+    right: 10.42%;
+    top: 5.23%;
+    bottom: 34.09%;
+}
+
+.basket {
+    position: absolute;
+    left: 25.12%;
+    top: 5.23%;
+}
+
+.line {
+    position: absolute;
+    top: 14.23%;
+}
